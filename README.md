@@ -256,6 +256,10 @@ GROUP BY category;
 
 **Objective:** Categorize content as 'Bad' if it contains 'kill' or 'violence' and 'Good' otherwise. Count the number of items in each category.
 
+
+## Technologies Used
+PostgresSQL
+
 ## Findings and Conclusion
 
 - **Content Distribution:** The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
@@ -268,4 +272,6 @@ This analysis provides a comprehensive view of Netflix's content and can help in
 Contact me on 
 - **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/mr.prakash_15_)
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/iamprakashramesh)
+
+
 
